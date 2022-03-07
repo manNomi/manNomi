@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hanmw110@naver.com) 
 
 
-<img src="nike.PNG"  width="28"height="24"/> King of Korea
+<img src="nike.PNG"  width="28" height="24"/> King of Korea
 
 :school: Artifitial intelligence Engineering at Inha University
 
