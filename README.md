@@ -5,7 +5,7 @@
 
 <img src="nike.PNG"  width="28" height="24"/> _King of Korea_
 
-<a href="[https://www.instagram.com/wook_10000/?hl=ko]" target="_blank"><img src="https://img.shields.io/badge/[nike]-[111111]?style=flat-square&logo=[nike)]&logoColor=white"/></a>
+<a href="[https://www.instagram.com/wook_10000/?hl=ko]" target="_blank"><img src="https://img.shields.io/badge/[nike]-[111111]?style=flat-square&logo=[Nike)]&logoColor=white"/></a>
 
 :school: _Artifitial intelligence Engineering at Inha University_
 
