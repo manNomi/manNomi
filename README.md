@@ -4,7 +4,7 @@
 
 
 ![nike](https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg)
-![title](/img/myImg.png){: width="100" height="100"}
+![nike](/img/myImg.png){: width="100" height="100"}
 
 :#111111: King of Korea
 
