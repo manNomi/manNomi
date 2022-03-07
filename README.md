@@ -5,7 +5,7 @@
 
 
 
-<img src="nike.PNG" > _Until get sponsorship from Nike_
+<img src="nike.PNG" width="28" height="28"> _Until get sponsorship from Nike_
 
 :school: _Artifitial intelligence Engineering at Inha University_
 
