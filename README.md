@@ -4,7 +4,7 @@
 
 
 
-<img src="nike.PNG"  width="28" height="24"/> _King of Korea Until get sponsorship from Nike_
+<img src="nike.PNG"  width="28" height="24"/> _Until get sponsorship from Nike_
 
 :school: _Artifitial intelligence Engineering at Inha University_
 
