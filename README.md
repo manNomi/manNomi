@@ -6,6 +6,8 @@
 ![nike](https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg)
 ![nike](https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg){: width="10" height="10"}
 
+<img src="https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg  width="200" height="400"/>
+                                                                                                                                         
 :#111111: King of Korea
 
 :school: Artifitial intelligence Engineering at Inha University
