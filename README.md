@@ -3,10 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hanmw110@naver.com) 
 
 
-![nike](https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg)
 ![nike](https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg){: width="10" height="10"}
 
-<img src="https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/98882987/157058709-0a449cbc-988b-43b4-bca8-bf3215dd9be1.svg  width="50" height="50"/>
                                                                                                                                          
 :#111111: King of Korea
 
