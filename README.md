@@ -11,7 +11,7 @@
 <img src="nike.PNG" width="28" height="28"> _Until get sponsorship from Nike_
 
 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/>  
 <img src="https://camo.githubusercontent.com/9df8c919d38a85c47f3a99e1526670a58ba12b4be15d59fc877b97c48eeb65b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d626c61636b">  <img src="https://camo.githubusercontent.com/7a00745b9de983fdb27bf693d60cf50c703a937ad80fcc71601691f5ec8ab6c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f51742d3431434435323f7374796c653d666f722d7468652d6261646765266c6f676f3d5174266c6f676f436f6c6f723d626c61636b">
 
 ![hanmw110@naver.com](https://github-readme-stats.vercel.app/api?username=manNomi&show_icons=true)[![hanmw110@naver.com](https://github-readme-stats.vercel.app/api/top-langs/?username=manNomi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/manNomi)
