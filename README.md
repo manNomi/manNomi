@@ -8,8 +8,6 @@
 :school: _Artifitial intelligence Engineering at Inha University_
 
 
-<img src="nike.PNG" width="28" height="28"> _Until get sponsorship from Nike_
-
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/>  
 
