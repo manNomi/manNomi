@@ -5,7 +5,6 @@ React / TypeScript 기반 프론트엔드 개발자입니다.
 
 📍 인하대 컴퓨터공학과  
 🛠 React · Next.js · Zustand · React Query  
-🏆 INCOM 해커톤 대상  
 📖 Velog: https://velog.io/@hanmw110
 
 ## ManWook Han | 한만욱 <a href="https://velog.io/@hanmw110"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanmw110"/></a>
