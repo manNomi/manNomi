@@ -4,15 +4,11 @@
 ### 👋 안녕하세요, 한만욱입니다
 
 
-<p align="center">
-  <a href="https://www.mannomi.cloud/" target="_blank" rel="noopener noreferrer">
 <pre>
 ┌───────────────┐
-|   블로그 입니다  |
+| <a href="https://www.mannomi.cloud/" target="_blank" rel="noopener noreferrer">블로그 구경오세요</a> |
 └───────────────┘
 　　ᕱ ᕱ ||
 　 ( ･ω･ ||
 　 /　つΦ
 </pre>
-  </a>
-</p>
